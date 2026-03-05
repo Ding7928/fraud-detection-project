@@ -2,7 +2,35 @@
 
 ## Dataset
 
-Download "Credit Card Fraud Detection" dataset from Kaggle and place `creditcard.csv` in `data/`.
+Credit Card Fraud Detection Dataset  
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+- 284,807 transactions
+- 492 fraud cases
+- Highly imbalanced dataset
+
+## Project Goals
+
+- Identify behavioral patterns associated with fraudulent activity
+- Train machine learning models for fraud classification
+- Generate fraud risk scores to prioritize investigation
+
+## Tech Stack
+
+Python  
+SQL  
+Scikit-learn  
+Random Forest  
+Isolation Forest  
+SQLite
+
+## Pipeline
+
+1. Data preprocessing
+2. Feature engineering
+3. Model training
+4. Fraud risk scoring
+5. SQL analysis of transaction patterns
 
 ## Quickstart
 
